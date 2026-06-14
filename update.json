@@ -1,5 +1,5 @@
 {
   "LatestVersion": "7.1.0",
-  "DownloadUrl": "https://github.com/user-attachments/files/28924079/Memify_Setup_v7.1.zip",
+  "DownloadUrl": "https://github.com/user-attachments/files/28924575/Memify_Setup_v7.1.zip",
   "Changelog": "- Upgraded to Memify 7.1 with bubbly, elastic animations!\n- Added standalone extra mods menu manager.\n- Rewrote Tracer ESP filtering to sync directly with the app panels.\n- Injected the Proximity Chase Trigger for the cinematic Granny Awakening sequence."
 }
